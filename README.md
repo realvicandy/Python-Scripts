@@ -1,7 +1,5 @@
-# PyCharm-Name-Age
+# Python-Scirpts
 
-This is a simple Python script that takes your name and age and outputs your birth year. 
+This is a collection of files that I have completed either for school, solving a coding problem in Python, or writing a script for fun.
 
-I completed it an assignment for IT140 Intro to Scripting at Southern New Hampshire University
-
-Note: if your birthday for the current year has not yet occured then the year will be one greater than it should be. This is how the script had to be written to correctly answer what the prompt was requesting.
+Descriptions of any given file can be found commented out in the file code
